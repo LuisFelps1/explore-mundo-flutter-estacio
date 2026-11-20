@@ -1,0 +1,1 @@
+Adicione aqui capturas REAIS do aplicativo em execucao no emulador antes de publicar no GitHub.
